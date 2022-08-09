@@ -1,0 +1,56 @@
+1652722016437	Rename method 'setUpGame'
+1652722417019	Rename method 'startGameThread'
+1652722461711	Rename method 'update'
+1652722517787	Rename type 'KeyHandler'
+1652723392807	Rename method 'checkTile'
+1652894405550	Rename method 'getTileImage'
+1652894574422	Rename method 'makeGame'
+1652894616192	Rename method 'startGame'
+1652895353115	Rename type 'AssetSetter'
+1652895464464	Rename type 'TileManager'
+1652895773500	Rename method 'loadMap'
+1652896061774	Rename type 'CollisionChecker'
+1652898092627	Rename local variable 'gamePanel'
+1652898145238	Rename local variable 'gp'
+1652900584656	Rename type 'ObjectSetter'
+1652981218749	Rename type 'AssetSetter'
+1652987856015	Rename resource 'sikko_arpejler.wav'
+1653041282357	Rename type 'Entity'
+1653041597651	Move compilation unit
+1653130598057	Rename field 'speed'
+1653149473751	Rename resource 'İrem pArt Key.png'
+1653149555878	Rename resource 'İrem pArt.png'
+1653149629185	Copy file
+1653149635114	Delete element
+1653149639706	Delete element
+1653150691132	Delete element
+1653167624317	Delete element
+1653167626978	Delete element
+1653167631312	Delete element
+1653167635121	Delete element
+1653167771813	Rename resource 'New Piskel-4.png (2).png'
+1653167788974	Rename resource 'New Piskel-5.png (2).png'
+1653204258899	Rename resource 'Tile.png'
+1653233988269	Delete element
+1653234032684	Delete element
+1653234035996	Delete element
+1653234044411	Delete element
+1653234047516	Delete element
+1653234052019	Delete element
+1653234057364	Delete element
+1653234090233	Delete element
+1653236271127	Delete element
+1653236273831	Delete element
+1653236277454	Delete element
+1653236292562	Delete element
+1653236296576	Delete element
+1653236348104	Rename type 'OBJ_Key'
+1653236362741	Rename type 'OBJ_Door'
+1653236376052	Rename type 'SuperObject'
+1653236597463	Delete element
+1653237186423	Delete element
+1653237419852	Rename field 'keys'
+1653238745046	Delete element
+1653238758201	Delete element
+1653249245630	Delete element
+1653249256806	Delete element
